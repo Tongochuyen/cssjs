@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='giabandiamondlotusriverside.blogspot.com' target='_blank'><img src='https://3.bp.blogspot.com/-SOWP_Qj8tSY/Ws4GInienOI/AAAAAAAAA-Q/OV2npT_swdInr_8crX0VWET08rWZWwASQCLcBGAs/s320/8.jpg' width='500px'/><br/>13 Căn Hộ Xanh Liền Kề Quận 1</a>. Liên hệ 0909185538. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='giabandiamondlotusriverside.blogspot.com' target='_blank'><img src='https://3.bp.blogspot.com/-SOWP_Qj8tSY/Ws4GInienOI/AAAAAAAAA-Q/OV2npT_swdInr_8crX0VWET08rWZWwASQCLcBGAs/s320/8.jpg' width='500px'/><br/> Căn Hộ Xanh Liền Kề Quận 1</a>. Liên hệ 0909185538. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
